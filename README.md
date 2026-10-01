@@ -5,7 +5,9 @@ Copy the full path of a file or folder from the terminal
 Windows · macOS
 
 <!-- media: hero -->
-<!-- ![copypath](docs/hero.png) -->
+![copypath copying the current folder's path, then pasting it back with Cmd+V](docs/terminal.png)
+
+[Watch it run (10 seconds)](docs/demo.mp4)
 <!-- /media: hero -->
 
 ## What it is
